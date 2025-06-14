@@ -17,7 +17,7 @@ TravelNest has been being developed. All Basic and important features are comple
 ### Installation Steps
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Amitdahiya08/TravelNest.git
+    git clone https://github.com/kishan1503/TravelNest.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -55,4 +55,4 @@ some of the issues are given below !.
 This project is licensed under the MIT License. License details will be added soon.
 
 ## Contact
-For any questions or suggestions, please reach out to [dahiyaamit004@gmail.com](mailto:dahiyaamit004@gmail.com).
+For any questions or suggestions, please reach out to [kishan.bishwa1503@gmail.com](mailto:kishan.bishwa1503@gmail.com).
